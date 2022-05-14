@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD Omar Jilani Jidan</h1>
-<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fthefellowcoder.com%2Fblog%2Fhello-world%2F&psig=AOvVaw1pWnIbnYR9icqR-gPToN8z&ust=1652592512320000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCICGkYeh3vcCFQAAAAAdAAAAABAD/?username=omarjilanijidan&label=Profile%20views&color=0e75b6&style=flat" alt="omarjilanijidan" /> </p>
+<p align="left"> <img src="/?username=omarjilanijidan&label=Profile%20views&color=0e75b6&style=flat" alt="omarjilanijidan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omarjilanijidan" alt="omarjilanijidan" /></a> </p>
 
