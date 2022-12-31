@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MD Omar Jilani Jidan</h1>
-<p align="left"> <img src="/?username=omarjilanijidan&label=Profile%20views&color=0e75b6&style=flat" alt="omarjilanijidan" /> </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarjilanijidan&label=Profile%20views&color=0e75b6&style=flat" alt="omarjilanijidan" /> </p>
 
